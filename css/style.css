@@ -73,6 +73,8 @@ body{
 .logo p{
     color: #ffffff;
     padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-style: italic;
 }
 #home .large-header {
@@ -92,7 +94,8 @@ body{
 #countdown_dashboard {
 	display: block;
 	margin: 0px auto;
-	overflow: hidden
+	overflow: hidden;
+    color: #ffffff;
 }
 .dash {
 	padding-bottom: 10px;
@@ -102,9 +105,12 @@ body{
 .dash_title {
 	font-size: 16px;
 	width: 100%;
-	color: #bbbbbb;
+	color: #ffffff;
 	display: block;
 	clear: both;
+}
+.donate-button {
+    color: #ffffff;
 }
 .digit {
 	color: #f9f9f9;
